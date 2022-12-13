@@ -21,8 +21,7 @@ const store = useStore();
   <div class="header">
     <img class="logo" src="../images/logo.png" alt="" />
     <div class="company">
-      <h1>Terry Pictures</h1>
-      <h2>Weaving Stories</h2>
+      <h1>Walmart IMDB</h1>
     </div>
   </div>
   <img
@@ -48,5 +47,8 @@ img {
 .posterss {
   width: 200px;
   padding: 1vw;
+}
+h1 {
+  color: red;
 }
 </style>

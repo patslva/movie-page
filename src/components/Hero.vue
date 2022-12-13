@@ -2,7 +2,6 @@
 
 <template>
   <div class="hero">
-    <!-- <img src="../images/movieWallpaper.jpg" alt="" /> -->
     <h1>Movies You Should Watch!</h1>
   </div>
 
@@ -17,8 +16,6 @@
   height: 590px;
   /* padding: 29%; */
   text-align: left;
-  /* background: url("../images/movieWallpaper.jpg") no-repeat center/cover; */
-  /* background: linear-gradient(0deg, #000000 30%, #ffffff44 100%); */
 }
 .hero::before {
   content: "";

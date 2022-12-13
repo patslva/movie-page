@@ -102,6 +102,7 @@ const purchaseMovie = () => {
 
 h1 {
   padding: 5%;
+  color: red;
 }
 
 p {
@@ -126,8 +127,8 @@ button {
   padding: 2%;
   height: auto;
   width: 100px;
-  color: white;
-  background-color: #f9bc50;
+  color: black;
+  background-color: white;
   margin-left: 80%;
 }
 </style>
