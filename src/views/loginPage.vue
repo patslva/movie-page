@@ -82,4 +82,8 @@ input {
 h1 {
   color: red;
 }
+form {
+  margin: 0 auto;
+  text-align: center;
+}
 </style>

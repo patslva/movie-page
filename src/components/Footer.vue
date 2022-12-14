@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    <p>Information retrieved from TMDB API</p>
+    <p>Courtesty of ACI</p>
   </div>
 </template>
 

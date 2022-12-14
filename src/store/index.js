@@ -1,15 +1,14 @@
-import { defineStore } from 'pinia'
+import { defineStore } from "pinia";
 import { ref } from "vue";
 
-export const useStore = defineStore('store', {
+export const useStore = defineStore("store", {
   state: () => {
     return {
       posters: [],
       id: [],
       boughtId: [],
-      boughtPosters: []
-    }
+      boughtPosters: [],
+    };
   },
-  actions: {
-  },
+  actions: {},
 });
